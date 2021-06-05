@@ -1,0 +1,12 @@
+assa Assaabloy assaabloy
+clic TravelClick travelClick 
+comn middleware_common
+dail DailyPoint dailyPoint
+kiosk Kiosk KioskOws
+ncs NCS ncs
+neoFB NeorchaFB neorchaFB
+pega Pegasus pegasus
+prot Protel protel 
+sda	SDA SDA
+t_click TravelClick travelClick 
+twea Tweak neorchaWEBPlatform
